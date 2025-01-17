@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/my.jpg
+  src: /assets/img/taebok.jpg
   alt: website picture
 ---
 
